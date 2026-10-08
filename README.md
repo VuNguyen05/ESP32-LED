@@ -1,4 +1,7 @@
+# PlatformIO: Libraries Usage Demo
 
+Giảng viên: Nguyễn Anh Tuấn  
+Môn học: Phát triển ứng dụng IoT — Khoa Vật lý, Trường Đại học Khoa học Tự nhiên (HUS)
 ## Phần cứng 
 
 1. ESP32 Devkit v1
